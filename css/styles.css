@@ -15,4 +15,14 @@ h2 {
   margin-bottom: 10px;
 }
 
+.genero {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  text-wrap: unset;
+  text-align: center;
+}
+
+/* no soy capaz de hacer que el texto salga en dos lineas en lugar de en una seguida */
+
 
